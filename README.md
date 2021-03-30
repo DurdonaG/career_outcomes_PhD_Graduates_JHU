@@ -32,6 +32,9 @@ Data from Coalition for the Next Generation Life Science was obtained, cleaned a
 
 # Cluster Analysis by Job Type Upon Graduation #
 
+![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/ClusterAnalysis%20By%20Job%20Tyoe%20.png)
+
+![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/Graph%20by%20Job%20type.png)
 
 
 ## Conclusion 
