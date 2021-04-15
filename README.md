@@ -2,8 +2,8 @@
 
 ## Background 
 
-Usually completeng a PhD is a last step in student's educational pathway and first step for establishing their careers or growing an established career. Not every PhD student continues on in academia. People with PhDs are needed at different places in society, and their academic skills prepare them for a wide array of challenges. 
-Coalition for the Next Generation Life Science is a foundation that brings trancparency to PhD and postdoctoral training in order to empower and inform training for the next generation of scientists around the world. They are commited to create trancparency for a stronger workforce.  
+Usually, completing a PhD is a last step in student's educational pathway and first step for establishing their careers or growing an established career. Not every PhD student continues on in academia. People with PhDs are needed at different places in society, and their academic skills prepare them for a wide array of challenges. 
+Coalition for the Next Generation Life Science is a foundation that brings transparency to PhD and postdoctoral training in order to empower and inform training for the next generation of scientists around the world. They are commited to create trancparency for a stronger workforce.  
 Johns Hopkins is a founding member of CNGLS whose members are jointly committed to increased transparency related to doctoral and postdoctoral training in the life sciences. The links below lead to doctoral program statistics and information about postdoctoral statistics. 
 
 Source: https://provost.jhu.edu/education/graduate-and-professional-education/cngls/
