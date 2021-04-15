@@ -26,21 +26,21 @@ Data from Coalition for the Next Generation Life Science was obtained, cleaned a
 
 # Cluster Analysis by Sector Upon Graduation #
 
-First analysis performed is a cluster analysis by job sector right upon graduation. As can be seen in the cluster analysis outcome, standarized cluster anchors are 21, 23, and 4. Negative standard deviation here indicate the anchor is below the mean and positive standard deviation indicate being placed above the mean. 
+First analysis performed is a cluster analysis by job sector right upon graduation. As can be seen in the cluster analysis outcome, standarized cluster anchors are 21, 23, and 4. Negative standard deviation here indicates the anchor is below the mean and positive standard deviation indicate being placed above the mean. 
 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/Screen%20Shot%202021-03-29%20at%209.40.41%20PM.png)
 
+In the following scatterplot, clusters can be seen: 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/clustera%20by%20job%20sector.png)
 
 # Cluster Analysis by Job Type Upon Graduation #
 
-Next analysis is a cluster analysis by job type upon graduation: 
+Next analysis is a cluster analysis by job type upon graduation. Cluster anchors here are 9, 17, and 22: Cellular and Molecular Medicine, Epidomology, and Immunology. 
 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/ClusterAnalysis%20By%20Job%20Tyoe%20.png)
 
+After running multiple iterations, we now have the output to graph and summarize the data. Here is the output graph for this cluster analysis. Following scater plot demonstrates clusters more clearly: 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/Graph%20by%20Job%20type.png)
-
-After running multiple iterations, we now have the output to graph and summarize the data. Here is the output graph for this cluster analysis.
 
 ## Conclusion 
 
