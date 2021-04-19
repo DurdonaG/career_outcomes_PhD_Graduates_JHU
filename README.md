@@ -44,5 +44,4 @@ After running multiple iterations, we now have the output to graph and summarize
 
 ## Conclusion 
 
-To conclude, upon graduation, most of the students were inclided towards Human Genetics and Molecular Biology sector and sectors that have similarities to that. When it comes to the job type, upon graduation, immunology and jobs with similar metrics were more popular among recent PhD graduates. For the future research, it would be interesting to look at how this trend has changed over the years and whether students retain the same position after 10 years of graduation as the one they had right upon graduation. It would also be interesting to look at what factors play a role for students to pick particular job type or a job sector. 
-
+To conclude, upon graduation, most of the students were inclined towards Academia sector. When it comes to the job type, upon graduation Primary teaching was the most popular among recent PhD graduates. For the future research, it would be interesting to look at how this trend has changed over the years and whether students retain the same position after 10 years of graduation as the one they had right upon graduation. It would also be interesting to look at what factors play a role for students to pick job type or a job sector.
