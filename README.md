@@ -20,13 +20,13 @@ What sectors/ job types were chosen by PhD graduates and which sector has most o
 
 ## Analysis 
 
-Data from Coalition for the Next Generation Life Science was obtained, cleaned and examined. In the following table you can see how different majors in life sciences such as Biochemistry and Molecular Biology, Biochemistry, Cellular and Molecular Biology, Biological Chemistry, Biology, Biomedical Engineering, and etc. have chosen different patways by sector such as: Academia, For-Profit, Government, Nonprofit; and by job type: Further training or education, Primarily research, Primarily teaching, Science-related, Not related to science as can be seen in the following table: 
+First step was obtaining Data from Coalition for the Next Generation Life Science, cleaning and examining it. In the following table you can see how different majors in life sciences such as Biochemistry and Molecular Biology, Biochemistry, Cellular and Molecular Biology, Biological Chemistry, Biology, Biomedical Engineering, and etc. have chosen different patways by sector such as: Academia, For-Profit, Government, Nonprofit; and by job type: Further training or education, Primarily research, Primarily teaching, Science-related, Not related to science as can be seen in the following table: 
 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/General%20Data%20Display.png) 
 
 # Cluster Analysis by Sector Upon Graduation #
 
-First analysis performed is a cluster analysis by job sector right upon graduation. As can be seen in the cluster analysis outcome, standarized cluster anchors are 21, 23, and 4. Negative standard deviation here indicates the anchor is below the mean and positive standard deviation indicate being placed above the mean. 
+First analysis I performed is a cluster analysis by job sector right upon graduation. As can be seen in the cluster analysis outcome, standarized cluster anchors are 21, 23, and 4. Negative standard deviation here indicates the anchor is below the mean and positive standard deviation indicate being placed above the mean. 
 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/Screen%20Shot%202021-03-29%20at%209.40.41%20PM.png)
 
@@ -39,9 +39,10 @@ Next analysis is a cluster analysis by job type upon graduation. Cluster anchors
 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/ClusterAnalysis%20By%20Job%20Tyoe%20.png)
 
-After running multiple iterations, we now have the output to graph and summarize the data. Here is the output graph for this cluster analysis. Following scater plot demonstrates clusters more clearly: 
+After running multiple iterations, I now have the output to graph and summarize the data. Here is the output graph for this cluster analysis. Following scater plot demonstrates clusters more clearly: 
 ![](https://github.com/DurdonaG/career_outcomes_PhD_Graduates_JHU/blob/main/Images/Graph%20by%20Job%20type.png)
 
 ## Conclusion 
 
 To conclude, upon graduation, most of the students were inclined towards Academia sector. When it comes to the job type, upon graduation Primary teaching was the most popular among recent PhD graduates. For the future research, it would be interesting to look at how this trend has changed over the years and whether students retain the same position after 10 years of graduation as the one they had right upon graduation. It would also be interesting to look at what factors play a role for students to pick job type or a job sector.
+Student choice changes could be also analyzed over some period of time to understand whether the experience affects student's choice. 
